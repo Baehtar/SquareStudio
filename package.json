@@ -1,0 +1,1 @@
+{"name":"square-studio-workspace","private":true,"scripts":{"dev":"node square-studio/server.mjs","start":"node square-studio/server.mjs","build":"node square-studio/build.mjs","check":"node --check square-studio/dist/app.js && node --check square-studio/dist/content.js && node --check square-studio/server.mjs"}}

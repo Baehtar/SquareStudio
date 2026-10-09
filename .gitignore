@@ -1,0 +1,3 @@
+.reference/
+*.tar.gz
+node_modules/
